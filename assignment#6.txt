@@ -1,0 +1,37 @@
+Q#1) Define Object Oriented Programming Language?
+
+
+Answer: Object-oriented programming (OOP) is a software programming model constructed around objects. This model compartmentalizes data into objects (data fields) and describes object contents and behavior through the declaration of classes (methods)
+
+
+
+Q#2)List down the Benefits of OOP?
+
+1. Simplicity: software objects model real world objects, so the complexity is reduced and the program structure is very clear; 
+2. Modularity: each object forms a separate entity whose internal workings are decoupled from other parts of the system; 
+3. Modifiability: it is easy to make minor changes in the data representation or the procedures in an OO program. Changes inside a class do not affect any other part of a program, since the only public interface that the external world has to a class is through the use of methods; 
+4. Extensibility: adding new features or responding to changing operating environments can be solved by introducing a few new objects and modifying some existing ones; 
+5. Maintainability: objects can be maintained separately, making locating and fixing problems easier; 
+6. Re-usability: objects can be reused in different programs.
+
+Q#3) Method: 
+Method is called by its name, but it is associated to an object (dependent).
+A method is implicitly passed the object on which it is invoked.
+It may or may not return any data.
+A method can operate on the data (instance variables) that is contained by the corresponding class
+
+Function: Function is block of code that is also called by its name. (independent)
+The function can have different parameters or may not have any at all. If any data (parameters) are passed, they are passed explicitly.
+It may or may not return any data.
+Function does not deal with Class and its instance concept.
+
+
+Q#4)
+CLASS:
+ A class is an entity that determines how an object will behave and what the object will contain. In other words, it is a blueprint or a set of instruction to build a specific type of object.
+OBJECT:
+ An object is nothing but a self-contained component which consists of methods and properties to make a particular type of data useful. Object determines the behavior of the class. When you send a message to an object, you are asking the object to invoke or execute one of its methods.
+Attributes:
+ In Object-oriented programming(OOP), classes and objects have attributes. Attributes are data stored inside a class or instance and represent the state or quality of the class or instance. ... One can think of attributes as noun or adjective, while methods are the verb of the class.
+Behavior:
+ A class's behavior determines how an instance of that class operates; for example, how it will "react" if asked to do something by another class or object or if its internal state changes. Behavior is the only way objects can do anything to themselves or have anything done to them.
